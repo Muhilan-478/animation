@@ -27,8 +27,8 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 /*
-Developed by: PARTHIPAN M
-Registeration Number : 212225040294
+Developed by: A.MUHILAN
+Registeration Number : 212225240092
 */
 ```
 ## Activity_main.xml
